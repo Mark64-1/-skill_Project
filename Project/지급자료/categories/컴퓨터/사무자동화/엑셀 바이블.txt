@@ -1,0 +1,10 @@
+created_by	2019-05-08
+isbn	9791162241813(1162241810)
+numpages	1096
+author	최준선
+intro	엑셀의 기본 원리부터 상세한 활용 사례까지 엑셀의 모든 지식을 체계적으로 학습한다!
+name	엑셀 바이블
+price	36000
+id	21
+stock	7
+hashtag	#엑셀,#사무,#자동화

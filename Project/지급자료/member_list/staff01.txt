@@ -1,0 +1,7 @@
+authority	STAFF
+email	staff01@naver.com
+login_id	staff01
+login_pwd	staff01
+birthdate	1991-02-13
+phone	010-0000-0001
+id	1

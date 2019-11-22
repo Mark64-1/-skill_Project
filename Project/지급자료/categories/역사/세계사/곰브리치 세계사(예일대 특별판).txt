@@ -1,0 +1,10 @@
+created_by	2019-06-05
+intro	《곰브리치 세계사》의 결정판!
+name	곰브리치 세계사(예일대 특별판)
+hashtag	#세계사,#역사
+price	23000
+isbn	9788949189536(8949189534)
+stock	6
+numpages	440
+id	15
+author	에른스트 H. 곰브리치 지음, 박민수 옮김

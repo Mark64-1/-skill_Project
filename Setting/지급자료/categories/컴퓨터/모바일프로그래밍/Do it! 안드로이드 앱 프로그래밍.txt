@@ -1,0 +1,10 @@
+hashtag	#프로그래밍,#안드로이드,#모바일
+id	18
+numpages	848
+stock	1
+created_by	2019-03-25
+isbn	9791163030607(1163030600)
+price	40000
+name	Do it! 안드로이드 앱 프로그래밍
+author	정재곤
+intro	8년 연속 안드로이드 분야 1위! 

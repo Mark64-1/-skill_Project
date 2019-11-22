@@ -1,0 +1,7 @@
+email	staff03@gmail.com
+login_id	staff03
+login_pwd	staff03
+authority	STAFF
+id	3
+birthdate	1993-04-01
+phone	010-0000-0003

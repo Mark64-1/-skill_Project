@@ -1,0 +1,10 @@
+stock	8
+created_by	1989-08-01
+id	11
+hashtag	#동양사,#사전
+intro	동양사에 대해 알기 쉽게 정리한 사전이다.
+author	신영철
+name	동양사 사전
+isbn	9788974401764(8974401762)
+price	60000
+numpages	1092

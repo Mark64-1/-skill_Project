@@ -1,0 +1,7 @@
+email	user05@gmail.com
+login_id	user05
+birthdate	1999-06-06
+login_pwd	user05
+authority	USER
+phone	010-0001-0010
+id	10

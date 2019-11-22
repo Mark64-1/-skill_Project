@@ -1,0 +1,10 @@
+created_by	2018-07-16
+hashtag	#동양사,#개론,#대학교재
+numpages	763
+stock	1
+name	동양사 개론
+intro	▶ 동양사개론에 관한 내용을 담은 전문서적입니다.
+isbn	9788944504624(8944504628)
+id	12
+price	39000
+author	신채식

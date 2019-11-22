@@ -1,0 +1,7 @@
+email	staff04@naver.com
+login_id	staff04
+login_pwd	staff04
+authority	STAFF
+id	4
+birthdate	1992-01-03
+phone	010-0000-0004

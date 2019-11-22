@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+E:\부엉이\2019전국대회\공개과제답안지\자바\강원1차\.metadata\.plugins\org.eclipse.jdt.core
+2853070746.index
+449384428.index
+789344348.index
+4022483057.index

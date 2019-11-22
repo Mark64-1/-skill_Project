@@ -1,0 +1,7 @@
+email	staff05@gmail.com
+login_id	staff05
+login_pwd	staff05
+authority	STAFF
+id	5
+birthdate	1988-03-19
+phone	010-0000-0005

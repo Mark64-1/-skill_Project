@@ -1,0 +1,7 @@
+email	user04@naver.com
+login_id	user04
+birthdate	2009-07-07
+login_pwd	user04
+authority	USER
+phone	010-0001-0009
+id	9

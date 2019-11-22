@@ -1,0 +1,7 @@
+id	14
+login_id	user09
+email	user09@gmail.com
+login_pwd	user09
+birthdate	1994-04-21
+authority	USER
+phone	010-0001-0014

@@ -1,0 +1,7 @@
+id	8
+login_id	user03
+login_pwd	user03
+birthdate	1990-01-31
+authority	USER
+phone	010-0001-0008
+email	user03@naver.com

@@ -1,0 +1,10 @@
+isbn	9788968484704(8968484708)
+created_by	2016-11-20
+hashtag	#프로그래밍,#자바,#컴퓨터
+name	행복한 프로그래밍
+author	임백준
+id	17
+stock	2
+intro	치킨집 사장님도 다시 프로그래밍하게 만든 바로 그 책!
+price	16000
+numpages	300

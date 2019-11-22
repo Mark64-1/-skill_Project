@@ -1,0 +1,7 @@
+login_id	user06
+email	user06@naver.com
+login_pwd	user06
+birthdate	1997-03-17
+authority	USER
+phone	010-0001-0011
+id	11
